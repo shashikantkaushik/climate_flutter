@@ -85,8 +85,7 @@ Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaus
 <br>
 
 ## :closed_book: License
-Not Release Yet
-All Rights are Reserved
+Open Source under MIT
 
 <br>
 
