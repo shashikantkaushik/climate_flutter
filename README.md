@@ -54,7 +54,7 @@ $>gh repo clone shashikantkaushik/Home_Service_app
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git@github.com:shashikantkaushik/Home_Service_app.git
+$>git@github.com:shashikantkaushik/climate_flutter.git
 ```
 
 **Install dependencies**
