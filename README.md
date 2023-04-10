@@ -1,6 +1,10 @@
 
 # Clima ☁
 
+![badge1](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![badge2](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<br>
+
 ## My Goal
 
 The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
@@ -10,7 +14,13 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 
 We’re going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
+<br>  
+
+## 🚀 Preview
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+
+<br>
 
 ## What I will learn
 
@@ -26,21 +36,9 @@ We’re going to make a weather app inspired by the beautiful designs made by [O
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
 
-# Homzy-A Home Service App
 
-![badge1](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![badge2](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-> A new Flutter application that help people in doing there house hold work.
 
-<br>
 
-## 🥅 My Goal
-
-My goal is give you the knowledge to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
-
-<br>  
-
-## 🚀 Preview
-It will be avalible soon in Preview Mode
 
 <br>
 
