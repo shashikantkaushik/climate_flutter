@@ -48,7 +48,7 @@ We’re going to make a weather app inspired by the beautiful designs made by [O
 ***In order to clone the project via HTTPS, run this command:***
 
 ```
-$>gh repo clone shashikantkaushik/Home_Service_app
+$>gh repo clone shashikantkaushik/climate_flutter
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
